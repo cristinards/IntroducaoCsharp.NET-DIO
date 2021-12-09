@@ -1,0 +1,14 @@
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\bin\Debug\net6.0\IntroducaoCsharp.Net-DIO.exe
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\bin\Debug\net6.0\IntroducaoCsharp.Net-DIO.deps.json
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\bin\Debug\net6.0\IntroducaoCsharp.Net-DIO.runtimeconfig.json
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\bin\Debug\net6.0\IntroducaoCsharp.Net-DIO.dll
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\bin\Debug\net6.0\ref\IntroducaoCsharp.Net-DIO.dll
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\bin\Debug\net6.0\IntroducaoCsharp.Net-DIO.pdb
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\obj\Debug\net6.0\IntroducaoCsharp.Net-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\obj\Debug\net6.0\IntroducaoCsharp.Net-DIO.AssemblyInfoInputs.cache
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\obj\Debug\net6.0\IntroducaoCsharp.Net-DIO.AssemblyInfo.cs
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\obj\Debug\net6.0\IntroducaoCsharp.Net-DIO.csproj.CoreCompileInputs.cache
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\obj\Debug\net6.0\IntroducaoCsharp.Net-DIO.dll
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\obj\Debug\net6.0\ref\IntroducaoCsharp.Net-DIO.dll
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\obj\Debug\net6.0\IntroducaoCsharp.Net-DIO.pdb
+C:\Users\CRISTINA RAMOS\Desktop\IntroducaoAo.Net DIO\CsharpIntro2\IntroducaoCsharp.Net-DIO\IntroducaoCsharp.Net-DIO\obj\Debug\net6.0\IntroducaoCsharp.Net-DIO.genruntimeconfig.cache
